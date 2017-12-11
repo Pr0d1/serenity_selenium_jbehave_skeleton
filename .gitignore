@@ -1,0 +1,32 @@
+# Maven #
+target/
+
+# Eclipse #
+.settings/
+.project
+.classpath
+logs/
+.externalToolBuilders/
+.springBeans
+.gwt
+*.launch
+bin/
+
+
+*~
+
+# Package Files #
+*.class
+*.jar
+*.war
+*.ear
+
+# MANIFEST.MF is often generated #
+MANIFEST.MF
+META-INF/
+
+# Log generated
+*.log
+
+#
+mvn-ht-selenium-tests/driver

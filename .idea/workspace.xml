@@ -1,0 +1,1156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5dc45361-34d3-40c8-a453-3a3cc92b1ff1" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/mvn_ht_selenium$Single_Test.coverage" NAME="Single Test Coverage Results" MODIFIED="1512565960564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="mvn-ht-selenium" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="search.story" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/stories/contracts/search.story">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchSteps.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/skeleton/features/steps/serenity/SearchSteps.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="18" column="38" lean-forward="false" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchPage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/skeleton/page/SearchPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Utils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/skeleton/utils/Utils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-44">
+              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchDefinitions.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/skeleton/features/steps/SearchDefinitions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="16" column="24" lean-forward="false" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Select show my saving link</find>
+      <find>All orientations are shown in table</find>
+      <find>for each orientation we see title pourcentage and inprogress situation</find>
+      <find>elect launch research doc</find>
+      <find>Show Last Three Mouvements</find>
+      <find>Show Monthly Period For One Contract²²²²</find>
+      <find>Show Monthly Period For One Contrac</find>
+      <find>listdeucpperiod</find>
+      <find>list of mounths appear and is equal to deucp</find>
+      <find>Show monthly period for one contract</find>
+      <find>Check Donuts For User Have More Than Five Orientations</find>
+      <find>User Select Repartition de mon epargne tab</find>
+      <find>four orientations are shown and others for the others orientations</find>
+      <find>User is at contract detail page</find>
+      <find>User Select show my saving link</find>
+      <find>Thucydides</find>
+      <find>Serenity</find>
+      <find>maven-compiler-plugin</find>
+      <find>use</find>
+      <find>And by default weekly is displayed</find>
+      <find>by default weekly is displayed</find>
+      <find>weekly monthly and annual period are shown</find>
+      <find>Show conta</find>
+      <find>Select launch research doc</find>
+      <find>Given WebMaster is logged in with beguin beguin</find>
+      <find>Given</find>
+      <find>one bloc appeared with title LES CARACTERISTIQES DE MON CONTRAT</find>
+      <find>And User hover the actif category on donuts</find>
+      <find>User hover the actif category on donuts</find>
+      <find>veu</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>User is logged in with</replace>
+      <replace>Serenity</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\MECHERI\IdeaProjects\mvn-ht-selenium\target\site</dir>
+      <dir>C:\Users\MECHERI\IdeaProjects\mvn-ht-selenium</dir>
+      <dir>C:\Users\MECHERI\IdeaProjects\mvn-ht-selenium\src\test\java\fr\ag2rlamondiale\ht\selenium\features\steps\serenity</dir>
+      <dir>C:\Users\MECHERI\IdeaProjects\mvn-ht-selenium\src\test\java\fr\ag2rlamondiale\ht\selenium\configuration</dir>
+      <dir>C:\Users\MECHERI\IdeaProjects\mvn-ht-selenium\src\test\java\fr\ag2rlamondiale\ht\selenium\features\steps</dir>
+      <dir>C:\Users\MECHERI\IdeaProjects\mvn-ht-selenium\src\test\java\fr\ag2rlamondiale\ht\selenium\features</dir>
+      <dir>C:\Users\MECHERI\IdeaProjects\mvn-ht-selenium\src\test\java</dir>
+      <dir>C:\Users\MECHERI\IdeaProjects\mvn-ht-selenium\src\test\resources\stories\</dir>
+      <dir>C:\Users\MECHERI\IdeaProjects\mvn-ht-selenium\src\test\resources\stories</dir>
+      <dir>C:\Users\MECHERI\IdeaProjects\mvn-ht-selenium\src\test\resources\stories\contracts</dir>
+      <dir>C:\Users\MECHERI\IdeaProjects\mvn-ht-selenium\src\test\java\fr\ag2rlamondiale\ht\selenium</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/page/ContactPage.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/stories/contracts/mouvements.story" />
+        <option value="$PROJECT_DIR$/src/test/resources/stories/contracts/contracts_list_consultation.story" />
+        <option value="$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/features/steps/serenity/DECPSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/configuration/ChromeDriverSource.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/stories/contracts/documents.story" />
+        <option value="$PROJECT_DIR$/src/test/resources/stories/contracts/contract_detail.story" />
+        <option value="$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/features/steps/SingleTestStepDefinitions.java" />
+        <option value="$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/page/ComptePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/features/steps/serenity/DetailEpargneSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/page/DECPPage.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/stories/contracts/epargne_detail.story" />
+        <option value="$PROJECT_DIR$/src/test/resources/stories/contracts/contact.story" />
+        <option value="$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/page/DetailEpargnePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/features/steps/serenity/DemandesSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/features/steps/serenity/MouvementsSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/features/steps/ContractsStepDefinitions.java" />
+        <option value="$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/features/steps/DemandesStepDefinitions.java" />
+        <option value="$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/features/steps/MouvementsStepDefinitions.java" />
+        <option value="$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/features/steps/EpargneStepDefinitions.java" />
+        <option value="$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/features/steps/DocumentsStepDefinitions.java" />
+        <option value="$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/features/steps/serenity/DocumentsSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/page/DocumentsPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/page/DemandesPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/features/steps/ContactStepDefinitions.java" />
+        <option value="$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/page/InformationsPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/features/steps/serenity/InformationsSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/features/steps/InformationsStepDefinitions.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/stories/contracts/informations.story" />
+        <option value="$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/utils/Utils.java" />
+        <option value="$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/features/steps/serenity/ContractSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/page/ContractPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/features/steps/ContractStepDefinitions.java" />
+        <option value="$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/features/WhenAcceptanceIT.java" />
+        <option value="$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/configuration/RemoteChromeDriverSource.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/stories/contracts/single_test.story" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/test/resources/serenity.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/features/LoginStepDefinitions.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/stories/contracts/login.story" />
+        <option value="$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/features/steps/serenity/LoginStepDefinitions.java" />
+        <option value="$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/features/steps/LoginStepDefinitions.java" />
+        <option value="$PROJECT_DIR$/src/test/java/skeleton/features/steps/serenity/LoginSteps.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/skeleton/page/LoginPage.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/stories/contracts/search.story" />
+        <option value="$PROJECT_DIR$/src/test/java/skeleton/features/steps/LoginStepDefinitions.java" />
+        <option value="$PROJECT_DIR$/src/test/java/skeleton/features/steps/SearchDefinitions.java" />
+        <option value="$PROJECT_DIR$/src/test/java/skeleton/features/steps/serenity/SearchSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/skeleton/page/SearchPage.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/user/MECHERI/Tools/apache-maven-3.2.5" />
+        <option name="userSettingsFile" value="C:\Users\MECHERI\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Tests Selenium Espace Client Epargne Patrimoniale" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Tests Selenium Espace Client Epargne Patrimoniale" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Tests Selenium Espace Client Epargne Patrimoniale" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="net.serenity-bdd:serenity-jbehave:1.24.0" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Tests Selenium Espace Client Epargne Patrimoniale" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="net.serenity-bdd:serenity-core:1.2.7-rc.1" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-287" />
+    <option name="width" value="1296" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Encapsulation issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Maven</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>MavenModelInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="selenium-jBehave-skeleton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selenium-jBehave-skeleton" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium-jBehave-skeleton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selenium-jBehave-skeleton" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium-jBehave-skeleton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selenium-jBehave-skeleton" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium-jBehave-skeleton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selenium-jBehave-skeleton" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium-jBehave-skeleton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selenium-jBehave-skeleton" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="skeleton" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium-jBehave-skeleton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selenium-jBehave-skeleton" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="skeleton" type="462c0819:PsiDirectoryNode" />
+              <item name="configuration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium-jBehave-skeleton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selenium-jBehave-skeleton" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="skeleton" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium-jBehave-skeleton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selenium-jBehave-skeleton" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="skeleton" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
+              <item name="steps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium-jBehave-skeleton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selenium-jBehave-skeleton" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="skeleton" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
+              <item name="steps" type="462c0819:PsiDirectoryNode" />
+              <item name="serenity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium-jBehave-skeleton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selenium-jBehave-skeleton" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="skeleton" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium-jBehave-skeleton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selenium-jBehave-skeleton" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="skeleton" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium-jBehave-skeleton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selenium-jBehave-skeleton" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium-jBehave-skeleton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selenium-jBehave-skeleton" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="2.31" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium-jBehave-skeleton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selenium-jBehave-skeleton" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="contracts" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="true" />
+    <property name="SONARLINT_ANALYSIS_RESULTS_SCOPE" value="VCS changed files" />
+    <property name="SONARLINT_ANALYSIS_RESULTS_SPLIT_PROPORTION" value="0.5846645" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/MECHERI/IdeaProjects/mvn-ht-selenium/src/test/java/fr/ag2rlamondiale/ht/selenium/features/steps/serenity/DetailEpargneSteps.java" />
+    <property name="add_unversioned_files" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MECHERI\IdeaProjects\selenium-jBehave-skeleton\src\test\java\fr\ag2rlamondiale\ht\selenium\features" />
+      <recent name="C:\Users\MECHERI\IdeaProjects\selenium-jBehave-skeleton" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="maven config" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="verify" />
+                <option value="-DforkMode=never" />
+                <option value="-Dwebdriver.provided.type=chrometype" />
+              </list>
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\MECHERI\AppData\Roaming\Subversion</configuration>
+    <option name="sshConnectionType" value="PRIVATE_KEY" />
+    <option name="sshPrivateKeyPath" value="U:\.ssh\id_rsa" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5dc45361-34d3-40c8-a453-3a3cc92b1ff1" name="Default" comment="" />
+      <created>1511537917546</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1511537917546</updated>
+    </task>
+    <task id="LOCAL-00001" summary="FIX - Check that menu become collapsed after 3 seconds &amp; Reports encoding utf-8">
+      <created>1511805307871</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1511805307871</updated>
+    </task>
+    <task id="LOCAL-00002" summary="FIX - Check mouse event on menu collapsed.">
+      <created>1511807462809</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1511807462809</updated>
+    </task>
+    <task id="LOCAL-00003" summary="FIX - Contact Story : Suppression des doublons sur le when.">
+      <created>1511881312770</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1511881312770</updated>
+    </task>
+    <task id="LOCAL-00004" summary="FIX - Check Contract list for user has multiple contracts for one partner.">
+      <created>1511954930948</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1511954930948</updated>
+    </task>
+    <task id="LOCAL-00005" summary="FIX - Check informations for rachat are corrects.">
+      <created>1511967647124</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1511967647124</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Create - Utils class for common utilities.">
+      <created>1511968982589</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1511968982589</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Fix - Validate research by mounth last documents mechanism.">
+      <created>1511972904605</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1511972904605</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Fix - Validate research by year last documents mecanism.">
+      <created>1511973329746</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1511973329746</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Fix - Factorising all login methods into one.">
+      <created>1512048992120</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1512048992120</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Code Review - Deleting some of the empty methods.">
+      <created>1512049413647</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1512049413647</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Fix - Check list of orientations for user have more than five orientations.">
+      <created>1512054991996</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1512054991996</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Fix - Check list of orientations for user have more than five orientations.">
+      <created>1512055246546</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1512055246546</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Fix - Separation of concerns.">
+      <created>1512061353934</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1512061353934</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Fix - Check donuts for user have more than five orientations.">
+      <created>1512466019171</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1512466019171</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Fix - Replacing deprecated libraries by new ones.">
+      <created>1512479761677</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1512479761677</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Fix - Removing a warning due to maven-compiler-plugin version.">
+      <created>1512481396761</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1512481396761</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Fix - Removing Deprecations.">
+      <created>1512565130777</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1512565130778</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Single Test Config removed.">
+      <created>1512565350388</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1512565350388</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Fix - Show contacts features">
+      <created>1512566651005</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1512566651005</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Fix - contacts features">
+      <created>1512575588594</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1512575588594</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Utils - add xpath method">
+      <created>1512576531262</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1512576531262</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Create - README.md">
+      <created>1512744843609</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1512744843609</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Create - README.md">
+      <created>1512744908102</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1512744908102</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Create - README.md">
+      <created>1512745160508</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1512745160508</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Create - README.md">
+      <created>1512745231914</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1512745231914</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Create - README.md">
+      <created>1512745653625</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1512745653625</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Create - README.md">
+      <created>1512746625222</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1512746625223</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Update - README.md - typo">
+      <created>1512747156464</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1512747156464</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Update - README.md - typo">
+      <created>1512747595614</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1512747595614</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Single_Test - 2017.12.06 at 15h 54m 20s.xml">
+      <configuration name="Single Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Single_Test - 2017.12.06 at 15h 54m 45s.xml">
+      <configuration name="Single Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Single_Test - 2017.12.06 at 15h 56m 49s.xml">
+      <configuration name="Single Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Single_Test - 2017.12.06 at 16h 05m 36s.xml">
+      <configuration name="Single Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Single_Test - 2017.12.06 at 16h 06m 09s.xml">
+      <configuration name="Single Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Single_Test - 2017.12.06 at 16h 10m 15s.xml">
+      <configuration name="Single Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Single_Test - 2017.12.06 at 17h 22m 54s.xml">
+      <configuration name="Single Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Single_Test - 2017.12.06 at 17h 23m 20s.xml">
+      <configuration name="Single Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Single_Test - 2017.12.06 at 17h 23m 50s.xml">
+      <configuration name="Single Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Single_Test - 2017.12.07 at 10h 12m 39s.xml">
+      <configuration name="Single Test" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24280782" sideWeight="0.69012946" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50747985" sideWeight="0.43203884" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6674757" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46260068" sideWeight="0.7815534" order="2" side_tool="false" content_ui="tabs" x="1064" y="308" width="1280" height="957" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50747985" sideWeight="0.56796116" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3383199" sideWeight="0.53236246" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33333334" sideWeight="0.7347561" order="0" side_tool="false" content_ui="combo" x="479" y="141" width="581" height="942" />
+      <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34867665" sideWeight="0.49029127" order="8" side_tool="false" content_ui="tabs" x="16" y="229" width="1236" height="327" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4169417" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29692557" sideWeight="0.2652439" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4477448" sideWeight="0.49029127" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928804" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32929516" sideWeight="0.50323623" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7459547" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40859032" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32929516" sideWeight="0.69012946" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44930875" sideWeight="0.49029127" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40092167" sideWeight="0.7815534" order="3" side_tool="false" content_ui="tabs" x="1064" y="308" width="1280" height="957" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35022026" sideWeight="0.6868932" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928804" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32929516" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="WINDOWED" visible="true" show_stripe_button="true" weight="0.19012944" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="147" y="60" width="581" height="942" />
+      <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="WINDOWED" visible="false" show_stripe_button="true" weight="0.32929516" sideWeight="0.49676377" order="0" side_tool="false" content_ui="tabs" x="16" y="229" width="1236" height="327" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32929516" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="FIX - Check that menu become collapsed after 3 seconds &amp; Reports encoding utf-8" />
+    <MESSAGE value="FIX - Check mouse event on menu collapsed." />
+    <MESSAGE value="FIX - Contact Story : Suppression des doublons sur le when." />
+    <MESSAGE value="FIX - Check Contract list for user has multiple contracts for one partner." />
+    <MESSAGE value="FIX - Check informations for rachat are corrects." />
+    <MESSAGE value="Create - Utils class for common utilities." />
+    <MESSAGE value="Fix - Validate research by mounth last documents mechanism." />
+    <MESSAGE value="Fix - Validate research by year last documents mecanism." />
+    <MESSAGE value="Fix - Factorising all login methods into one." />
+    <MESSAGE value="Code Review - Deleting some of the empty methods." />
+    <MESSAGE value="Fix - Check list of orientations for user have more than five orientations." />
+    <MESSAGE value="Fix - Separation of concerns." />
+    <MESSAGE value="Fix - Check donuts for user have more than five orientations." />
+    <MESSAGE value="Fix - Replacing deprecated libraries by new ones." />
+    <MESSAGE value="Fix - Removing a warning due to maven-compiler-plugin version." />
+    <MESSAGE value="Fix - Removing Deprecations." />
+    <MESSAGE value="Single Test Config removed." />
+    <MESSAGE value="Fix - Show contacts features" />
+    <MESSAGE value="Fix - contacts features" />
+    <MESSAGE value="Utils - add xpath method" />
+    <MESSAGE value="Create - README.md" />
+    <MESSAGE value="Update - README.md - typo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update - README.md - typo" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="69" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/features/steps/serenity/ContractsSteps.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/features/steps/serenity/DemandesSteps.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/features/steps/serenity/DetailEpargneSteps.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/features/steps/serenity/MouvementsSteps.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/features/steps/DemandesStepDefinitions.java" />
+    <entry file="file://$PROJECT_DIR$/.gitattributes" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/features/steps/serenity/DECPSteps.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/page/DocumentsPage.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/page/DetailEpargnePage.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/features/steps/serenity/DocumentsSteps.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/features/steps/EpargneStepDefinitions.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/page/DemandesPage.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/features/steps/DocumentsStepDefinitions.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/features/steps/ContractsStepDefinitions.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/skeleton/features/steps/SearchDefinitions.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/features/steps/SingleTestStepDefinitions.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/features/steps/MouvementsStepDefinitions.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/page/InformationsPage.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/features/steps/serenity/InformationsSteps.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/features/steps/InformationsStepDefinitions.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/features/steps/ContractStepDefinitions.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/features/steps/serenity/ContractSteps.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/page/ContractPage.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/stories/contracts/contract_detail.story" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/stories/contracts/demandes.story" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/stories/contracts/documents.story" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/stories/contracts/epargne_detail.story" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/stories/contracts/informations.story" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/stories/contracts/mouvements.story" />
+    <entry file="file://$PROJECT_DIR$/target/test-classes/serenity.properties" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/configuration/RemoteChromeDriverSource.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/stories/contracts/single_test.story" />
+    <entry file="file://$PROJECT_DIR$/target/test-classes/stories/contracts/single_test.story" />
+    <entry file="file://$PROJECT_DIR$/target/test-classes/stories/contracts/epargne_detail.story" />
+    <entry file="file://$PROJECT_DIR$/target/test-classes/stories/contracts/contact.story" />
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/stories/contracts/contracts_list_consultation.story" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/skeleton/features/WhenAcceptanceIT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/features/steps/serenity/ContactSteps.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/serenity.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="34" lean-forward="false" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/page/ContactPage.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/fr/ag2rlamondiale/ht/selenium/features/steps/ContactStepDefinitions.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/stories/contracts/search.story">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/skeleton/features/steps/SearchDefinitions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="16" column="24" lean-forward="false" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/skeleton/utils/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-44">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/skeleton/page/SearchPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="44" lean-forward="false" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium-jBehave-skeleton.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/skeleton/configuration/ChromeDriverSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-110">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/skeleton/features/steps/serenity/SearchSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="38" lean-forward="false" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>selenium-jBehave-skeleton</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
