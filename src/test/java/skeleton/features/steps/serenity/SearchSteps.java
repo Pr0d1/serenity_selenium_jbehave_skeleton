@@ -11,8 +11,7 @@ public class SearchSteps {
     public void open() {
 
         searchPage.open();
-    }
-
+    }//comment
     @Step
     public void connect(String searchWord ) {
 
